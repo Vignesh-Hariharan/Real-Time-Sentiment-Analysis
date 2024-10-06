@@ -81,16 +81,11 @@ I've got tons of ideas to make this even better:
 - A fancy dashboard for tracking long-term trends
 - Exploring more advanced NLP techniques (I'm looking at you, topic modeling!)
 
-## Let's Connect!
 
-I had a blast building this, and I'm always happy to chat about it. Got questions, ideas, or just want to talk tech? Hit me up!
-
-[LinkedIn](https://www.linkedin.com/in/h-vignesh) | [GitHub](#) | [Portfolio](#)
-
----
+[LinkedIn](https://www.linkedin.com/in/h-vignesh) 
 
 <div align="center">
-Built with 💻 and fueled by ☕ by Vignesh
+Built by Vignesh
 </div>
 
-Thanks for checking out my project. Hope you find it as exciting as I do!
+Thanks for checking out my project!
