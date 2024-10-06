@@ -9,13 +9,13 @@
 
 </div>
 
-> Unlock the power of real-time sentiment analysis on Reddit with this powerful tool built to understand the emotional pulse of any subreddit! 🚀🔍
+> Unlock the power of real-time sentiment analysis on Reddit with this tool! 🚀🔍
 
 ---
 
 ## 🌟 Project Overview
 
-This **Reddit Real-Time Sentiment Analysis** project is part of Vignesh's portfolio, showcasing advanced data science and natural language processing capabilities. It’s designed to provide actionable insights into the sentiment of Reddit discussions, allowing users to monitor how people feel about specific topics in real time.
+This **Reddit Real-Time Sentiment Analysis** project is part of my portfolio, showcasing advanced data science and natural language processing capabilities. It’s designed to provide actionable insights into the sentiment of Reddit discussions, allowing users to monitor how people feel about specific topics in real-time.
 
 ### 🎨 Key Features
 
