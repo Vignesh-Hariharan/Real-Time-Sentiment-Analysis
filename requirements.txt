@@ -1,1 +1,27 @@
+# Reddit API wrapper
+praw==7.7.0
+
+# Web application framework
+streamlit==1.22.0
+
+# Data manipulation and analysis
+pandas==1.5.3
+
+# Natural Language Processing
+textblob==0.17.1
+nltk==3.8.1
+
+# Data visualization
+matplotlib==3.7.1
+plotly==5.14.1
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# Date and time manipulation (used in data_processing.py)
+pytz==2023.3
+
+# Optional: for more advanced NLP tasks
+# scikit-learn==1.2.2
+# numpy==1.24.3
 
