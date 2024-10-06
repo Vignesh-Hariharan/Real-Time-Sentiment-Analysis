@@ -21,7 +21,7 @@ python-dotenv==1.0.0
 # Date and time manipulation (used in data_processing.py)
 pytz==2023.3
 
-# Optional: for more advanced NLP tasks
-# scikit-learn==1.2.2
-# numpy==1.24.3
+# advanced NLP tasks
+ scikit-learn==1.2.2
+ numpy==1.24.3
 
