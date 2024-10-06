@@ -98,7 +98,6 @@ def generate_summary_stats(df: pd.DataFrame) -> Dict[str, Any]:
     }
 
 if __name__ == "__main__":
-    # Example usage and testing
     from reddit_api import create_reddit_instance, fetch_subreddit_posts
 
     reddit = create_reddit_instance()
