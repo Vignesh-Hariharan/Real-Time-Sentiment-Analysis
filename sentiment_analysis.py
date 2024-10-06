@@ -1,14 +1,22 @@
-
 from textblob import TextBlob
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import logging
+import nltk
+
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-# Initialize VADER Sentiment Intensity Analyzer once
+# Download VADER lexicon if not already present
+try:
+    nltk.data.find('sentiment/vader_lexicon.zip')
+except LookupError:
+    nltk.download('vader_lexicon')
+
+# Initialize VADER Sentiment Intensity Analyzer
 vader_analyzer = SentimentIntensityAnalyzer()
+
 
 def analyze_sentiment_textblob(text: str) -> float:
     """
