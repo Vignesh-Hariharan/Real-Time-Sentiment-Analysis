@@ -1,1 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
 
+# Log files
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Ignore environment variables file containing API keys and secrets
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache directory
+.streamlit/
+
+# Data analysis outputs
+*.csv
+*.json
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# PyInstaller
+# Usually these files are written by pyinstaller
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+coverage.xml
+*.cover
+.hypothesis/
+
+# pytest
+.pytest_cache/
+
+# Anaconda specific files
+*.conda
+*.ipynb
+
+# Ignore deployment files
+*.log
+*.sqlite
+
+# Ignore IDE specific files
+.vscode/
+.idea/
